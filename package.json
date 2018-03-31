@@ -1,0 +1,27 @@
+{
+  "name": "ontheroad",
+  "version": "1.0.0",
+  "description": "web service for alexa skill",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jluo9612/alexa-skill.git"
+  },
+  "keywords": [
+    "alexa"
+  ],
+  "author": "Jiabei Luo <jluo1@scu.edu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jluo9612/alexa-skill/issues"
+  },
+  "homepage": "https://github.com/jluo9612/alexa-skill#readme",
+  "dependencies": {
+    "alexa-verifier": "^1.0.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
+}
